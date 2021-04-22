@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinav998
-- 👀 I’m interested in adobe_campaign_classic/API'S/Any marketing automation tool/we_development
+- 👀 I’m interested in adobe_campaign_classic/API'S/Any marketing automation tool/web_development
 - 🌱 I’m currently learning API's/web_development
 - 💞️ I’m looking to collaborate on Any automation marketing journey
 - 📫 How to reach me abhinavkumarsingh201@gmail.com
